@@ -1,14 +1,6 @@
 ### Hi there 👋
 
 
-function HelloMessage({ name }) {
-  return <div>Hello {name}</div>;
-}
-
-ReactDOM.render(
-  <HelloMessage name="Taylor" />,
-  document.getElementById('container')
-);
 
 <!--
 **sharika-anjum/sharika-anjum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
