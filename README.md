@@ -1,27 +1,28 @@
 <img src="https://github.com/sharika-anjum/sharika-anjum/blob/master/github%20header.png" alt="Face" width="200" height="200" style="float:left"> 
 
-### Hi, I'm Sharika👋👩🏾‍💻     
+ <H1> Hi, I'm Sharika👋👩🏾‍💻  </H1>
 
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+<H4>As an aspiring engineer in Electronics and communication, I am cultivating my skills in the technical fields. My love towards writing allows me to articulate in the high-intensity situations that this new technical world brings and also my passion towards different coding languages culminate in working with different technologies. Quite evidently my love for writing makes me no less a tech enthusiast. I also have experience in communicating through teaching and presenting, this shows that I have the ability to balance confidence and humility while successfully communicating my intended purpose.
+
+I'm passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python,C,C++ and Java.I was selected as a student scholar of Legrand Group. </H4>
+
+<H5> Find me around the web 🌎:
+
+- Tech Blogging in <a href="https://medium.com/@sharikaanjumm">Medium</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/sharika-anjum-mondal-8b80a3188/">LinkedIn</a> 💼 
+- My website <a href="https://sites.google.com/view/e-portfolio-sharika">Sharika.info</a> 📹 ✍🏾</H5>
 
 
-## Find me around the web 🌎:
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
 
 
-<!--
-**sharika-anjum/sharika-anjum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🔭 I’m currently working on - Front-end development. Thus focusing on HTML,CSS,Javascript. Bootstrap recently became my favourite framework.**
 
-Here are some ideas to get you started:
+**🌱 I’m currently learning - Data Science,Machine Learning,Deep learning and computer vision.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**👯 I’ve recently worked with start-up companies like - mywbut.com, London Strategy and Consulting Group...**
+
+**😄 Words that describe me - Enthusiastic, Focused, diligent, adaptive - early adopter of technologies, thinker and a do-er.**
+
+
+
+                                                                          ✨✨✨
