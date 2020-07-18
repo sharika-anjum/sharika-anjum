@@ -23,7 +23,8 @@
 😄 *Words that describe me* - **Enthusiastic, Focused, diligent, adaptive - early adopter of technologies, thinker and a do-er.**
 
 
-![Alt Text](https://cdn.dribbble.com/users/1049434/screenshots/3646085/say_hello.gif)
+
+
 
 <p align="center">
   <img width="460" height="300" src="https://cdn.dribbble.com/users/1049434/screenshots/3646085/say_hello.gif">
