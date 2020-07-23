@@ -23,6 +23,9 @@
 😄 *Words that describe me* - **Enthusiastic, Focused, diligent, adaptive - early adopter of technologies, thinker and a do-er.**
 
 
+![Sharika's github stats](https://github-readme-stats.vercel.app/api?username=sharika-anjum&hide=contribs,prs])
+
+
 
 
 
