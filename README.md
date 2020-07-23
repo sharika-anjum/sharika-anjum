@@ -13,6 +13,9 @@
 - Sharing updates on <a href="https://www.linkedin.com/in/sharika-anjum-mondal-8b80a3188/">LinkedIn</a> 💼 
 - My website <a href="https://sites.google.com/view/e-portfolio-sharika">Sharika.info</a> 📹 ✍🏾</H5>
 
+**My Github stats**
+![Sharika's github stats](https://github-readme-stats.vercel.app/api?username=sharika-anjum&show_icons=true&theme=dracula)
+
 
 🔭 *I’m currently working on* - **Front-end development. Thus focusing on HTML,CSS,Javascript. Bootstrap recently became my favourite framework.**
 
@@ -21,12 +24,6 @@
 👯 *I’ve recently worked with start-up companies like* - **mywbut.com, London Strategy and Consulting Group...**
 
 😄 *Words that describe me* - **Enthusiastic, Focused, diligent, adaptive - early adopter of technologies, thinker and a do-er.**
-
-
-![Sharika's github stats](https://github-readme-stats.vercel.app/api?username=sharika-anjum&show_icons=true&theme=dracula)
-
-
-
 
 
 
