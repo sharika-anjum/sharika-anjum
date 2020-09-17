@@ -4,7 +4,7 @@
 
 <H4>As an aspiring engineer in Electronics and communication, I am cultivating my skills in the technical fields.</H4>
 
-<H4>I'm passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python,C,C++ and Java.I was selected as a student scholar of Legrand Group. </H4>
+<H4>I'm passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python,C,C++ and Java.I'm presently the student scholar of Legrand Group (since 2018). </H4>
 
 
 <H5> Find me around the web 🌎:
