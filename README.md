@@ -20,9 +20,9 @@
 
 🔭 *I’m currently working on* - **Front-end development. Thus focusing on HTML,CSS,Javascript. Bootstrap recently became my favourite framework.**
 
-🌱 *I’m currently learning* - **Full Stack Web development,Data Science,Machine Learning,Deep learning and computer vision.**
+🌱 *I’m currently learning* - **Full Stack Django development,Data Science & Machine Learning**
 
-👯 *I’ve recently worked with start-up companies like* - **London Strategy and Consulting Group...**
+👯 *I’ve recently worked with start-up companies like* - **Greenovera India Pvt. Ltd. and London Strategy and Consulting Group Limited...**
 
 😄 *Words that describe me* - **Enthusiastic, Focused, diligent, adaptive - early adopter of technologies, thinker and a do-er.**
 
