@@ -18,9 +18,9 @@
 ![Sharika's github stats](https://github-readme-stats.vercel.app/api?username=sharika-anjum&show_icons=true&theme=dracula)
 
 
-🔭 *I’m currently working on* - **Front-end development. Thus focusing on HTML,CSS,Javascript. Bootstrap recently became my favourite framework.**
+🔭 *I’m currently working on* - **Major Project - Traffic Sign Recognition for Advanced Driver Assistance System (ADAS) using Deep Learning techniques.**
 
-🌱 *I’m currently learning* - **Full Stack Django development,Data Science & Machine Learning**
+🌱 *I’m currently learning* - **Data Science & Machine Learning**
 
 👯 *I’ve recently worked with start-up companies like* - **Greenovera India Pvt. Ltd. and London Strategy and Consulting Group Limited...**
 
