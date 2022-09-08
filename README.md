@@ -2,7 +2,7 @@
 
  <H1> Hi, I'm Sharika👋👩🏾‍💻  </H1>
 
-<H4>As an aspiring engineer in Electronics and communication, I am cultivating my skills in the technical fields.</H4>
+<H4>After completion of my B.Tech in Electronics & Communication Engineering, I've joined TCS as a Systems Engineer in Digital cadre and I'm cultivating my skills in the technical fields.</H4>
 
 <H4>I'm passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python,C,C++ and Java.I'm presently the student scholar of Legrand Group (since 2018). </H4>
 
@@ -10,19 +10,13 @@
 <H5> Find me around the web 🌎:
 
 - Tech Blogging in <a href="https://medium.com/@sharikaanjumm">Medium</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/sharika-anjum-mondal-8b80a3188/">LinkedIn</a> 💼 
-- My website <a href="https://sites.google.com/view/e-portfolio-sharika">Sharika.info</a> 📹 ✍🏾</H5>
+- Sharing updates on <a href="https://www.linkedin.com/in/sharika-anjum-mondal-8b80a3188/">LinkedIn</a> 💼🏾</H5>
 
 **My Github stats**
 
 ![Sharika's github stats](https://github-readme-stats.vercel.app/api?username=sharika-anjum&show_icons=true&theme=dracula)
 
 
-🔭 *I’m currently working on* - **Major Project - Traffic Sign Recognition for Advanced Driver Assistance System (ADAS) using Deep Learning techniques.**
-
-🌱 *I’m currently learning* - **Data Science & Machine Learning**
-
-👯 *I’ve recently worked with start-up companies like* - **Greenovera India Pvt. Ltd. and London Strategy and Consulting Group Limited...**
 
 😄 *Words that describe me* - **Enthusiastic, Focused, diligent, adaptive - early adopter of technologies, thinker and a do-er.**
 
